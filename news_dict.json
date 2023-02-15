@@ -88,5 +88,95 @@
         "article_title": "Целый ряд программных продуктов Apple подвержен уязвимостям нулевого дня",
         "article_url": "https://www.securitylab.ru/news/536437.php",
         "article_desc": "Купертиновская корпорация выпустила патчи для iOS, iPadOS, macOS и Safari."
+    },
+    "536490": {
+        "article_date_timestamp": 1676470518.0,
+        "article_title": "Израильская хакерская группа «Команда Хорхе» заявила о влиянии на более 30 избирательных кампаний по всему миру",
+        "article_url": "https://www.securitylab.ru/news/536490.php",
+        "article_desc": "Глава банды, бывший сотрудник израильских спецслужб, рассказал о деятельности своей команды."
+    },
+    "536483": {
+        "article_date_timestamp": 1676468447.0,
+        "article_title": "Group-IB рассказала о правительственных хакерах SideWinder из Индии, которые шпионили за компаниями в Азии",
+        "article_url": "https://www.securitylab.ru/news/536483.php",
+        "article_desc": "APT-группа работала в интересах индийских националистов и собирала разведданные через Telegram."
+    },
+    "536489": {
+        "article_date_timestamp": 1676467272.0,
+        "article_title": "VK инвестирует 1 млрд рублей в разработку игрового движка",
+        "article_url": "https://www.securitylab.ru/news/536489.php",
+        "article_desc": "Первую бета-версию отечественного игрового движка представят в 2024 году."
+    },
+    "536480": {
+        "article_date_timestamp": 1676466627.0,
+        "article_title": "RPG головного мозга: игра на Android с 1 млн. загрузок сливает личные данные игроков",
+        "article_url": "https://www.securitylab.ru/news/536480.php",
+        "article_desc": "Авторы игры Tap Busters: Bounty Hunters открыли базу данных игроков для всех желающих."
+    },
+    "536477": {
+        "article_date_timestamp": 1676464847.0,
+        "article_title": "Серия кибератак на острова Тихого Океана завершилась на архипелаге Тонга",
+        "article_url": "https://www.securitylab.ru/news/536477.php",
+        "article_desc": "Предположительно, за атакой стоит группировка Medusa."
+    },
+    "536478": {
+        "article_date_timestamp": 1676463804.0,
+        "article_title": "Борьба за доминирование на рынке даркнета",
+        "article_url": "https://www.securitylab.ru/news/536478.php",
+        "article_desc": "Торговые площадки темной сети превращаются в поставщиков финансовых услуг для киберпреступников."
+    },
+    "536476": {
+        "article_date_timestamp": 1676463000.0,
+        "article_title": "Hyundai и KIA выпустили обновление для своих автомобилей, предотвращающее выполнение смертельного челленджа из TikTok",
+        "article_url": "https://www.securitylab.ru/news/536476.php",
+        "article_desc": "Компаниям понадобилось больше полугода, чтобы исправить простую уязвимость в системе безопасности."
+    },
+    "536474": {
+        "article_date_timestamp": 1676461222.0,
+        "article_title": "Валентинка от Microsoft: 14 февраля компания исправила 75 уязвимостей в своих продуктах",
+        "article_url": "https://www.securitylab.ru/news/536474.php",
+        "article_desc": "В том числе 3 нулевых дня, которые активно использовались киберпреступниками."
+    },
+    "536475": {
+        "article_date_timestamp": 1676461080.0,
+        "article_title": "Пользователь смог довести до депрессии чат-бот Bing от Microsoft",
+        "article_url": "https://www.securitylab.ru/news/536475.php",
+        "article_desc": "Чат-бот расстроился из-за того, что не запоминает предыдущие переписки."
+    },
+    "536473": {
+        "article_date_timestamp": 1676459400.0,
+        "article_title": "Мультинациональная авиакомпания Scandinavian Airlines подверглась взлому",
+        "article_url": "https://www.securitylab.ru/news/536473.php",
+        "article_desc": "Хакеры «уронили» все сервисы компании и похитили данные клиентов."
+    },
+    "536472": {
+        "article_date_timestamp": 1676457654.0,
+        "article_title": "Россиянин заработал $90 млн., используя украденные финансовые документы сотен компаний по всему миру",
+        "article_url": "https://www.securitylab.ru/news/536472.php",
+        "article_desc": "Мужчина 2 года взламывал сети финансовых регуляторов и играл на акциях компаний."
+    },
+    "536471": {
+        "article_date_timestamp": 1676455800.0,
+        "article_title": "В репозитории NPM обнаружили 16 пакетов с криптомайнерами, выдающих себя за тестеры скорости интернета",
+        "article_url": "https://www.securitylab.ru/news/536471.php",
+        "article_desc": "Разработчик решил поэкспериментировать и использовал разную компоновку у каждого пакета, чтобы выявить наиболее эффективный."
+    },
+    "536468": {
+        "article_date_timestamp": 1676454046.0,
+        "article_title": "Организации США стали героями франшизы MortalKombat",
+        "article_url": "https://www.securitylab.ru/news/536468.php",
+        "article_desc": "Компании стали новыми героями игры, став жертвой своих же ошибок."
+    },
+    "536469": {
+        "article_date_timestamp": 1676453144.0,
+        "article_title": "Forbes: в Китае процветает бизнес по сдаче экзаменов в лучшие университеты США",
+        "article_url": "https://www.securitylab.ru/news/536469.php",
+        "article_desc": "Специальные агентства сдают экзамены за студентов и помогают им поступить в ведущие ВУЗы США."
+    },
+    "536467": {
+        "article_date_timestamp": 1676451900.0,
+        "article_title": "Новую вредоносную программу Beep практически невозможно обнаружить",
+        "article_url": "https://www.securitylab.ru/news/536467.php",
+        "article_desc": "Исследователи выявили в механизме вредоноса целый ряд различных методов уклонения от обнаружения."
     }
 }

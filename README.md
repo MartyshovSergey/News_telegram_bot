@@ -13,5 +13,5 @@ source venv/bin/activate
 Установить необходимые библиотеки
 ```
 pip install --upgrade pip
-pip install requests bs4 lxml
+pip install requests bs4 lxml aiogram
 ```
