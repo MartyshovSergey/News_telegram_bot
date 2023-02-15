@@ -29,4 +29,9 @@ def get_first_news():
         article_date_time = article.find("time").get("datetime")
         date_from_iso = datetime.fromisoformat(article_date_time)
         date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
-        article_date_timestamp = time.mktime(datetime.strftime(date_time, "%Y-%m-%d %H:%M:%S"))
+        article_date_timestamp = time.mktime(datetime.strptime(date_time, "%Y-%m-%d %H:%M:%S").timetuple())
+
+        print(f'{article_title} | {article_url} | {article_date_timestamp}')
+
+
+get_first_news()
